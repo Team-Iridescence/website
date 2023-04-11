@@ -1,5 +1,5 @@
 import React,{useEffect,useRef} from 'react';
-import mainImage from "../Photo/DSC_0063.JPG"
+import mainImage from "../Photo/DSC_0063.jpg"
 import { gsap,Power2 } from 'gsap';
 import "../styles/Home.css";
 
