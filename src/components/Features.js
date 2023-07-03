@@ -1,8 +1,8 @@
 import React from 'react'
 import "../styles/Features.css";
 import SlideImage from "./SlideImage"
-import photographer from "../Photo/IMG_4062.JPG"
-import videography from "../Photo/IMG_8517.JPG"
+import photographer from "../Photo/IMG_4062.jpg"
+import videography from "../Photo/IMG_8517.jpg"
 import editing from "../Photo/editing.jpg"
 import content from "../Photo/content.jpg"
 

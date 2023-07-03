@@ -1,6 +1,6 @@
-import React, { useEffect, useRef } from 'react';
-import lowImageHigh from "../Photo/LDSC_0063.JPG.jpeg"
-import { gsap, Power2 } from 'gsap';
+import React,{useEffect,useRef} from 'react';
+import mainImage from "../Photo/DSC_0063.JPG"
+import { gsap,Power2 } from 'gsap';
 import "../styles/Home.css";
 
 function Home() {

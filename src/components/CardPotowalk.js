@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import '../styles/Card.css';
-
-import lcliq from "../Photo/lowDSC_5249 (1).jpeg"
-
+import cliq from "../Photo/DSC_5249.JPG"
 
 const CardPotowalk = () => {
   const [isHovered, setIsHovered] = useState(false);
